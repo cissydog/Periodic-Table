@@ -1,0 +1,94 @@
+/**{
+    outline: 1px dotted red;
+}*/
+.container{
+    width: 1000px;
+}
+.topleft, .leftmain, .left{
+    width: 134px;
+    display: inline-block;
+    vertical-align: top;
+}
+.top, .middle, .rightmain, .right, .bottomleft{
+    display: inline-block;
+    vertical-align: top;
+}
+.top{
+    width: 800px;
+    margin-left: 10px;
+}
+.left-top{
+    width: 88px;
+}
+.middle{
+    width: 456px;
+    margin-left: 10px;
+    margin-top: 135px;
+}
+.rightmain{
+    width: 276px;
+}
+.right-top{
+    width: 46px;
+    margin-left: 230px;
+}
+.right{
+    width: 276px;
+}
+.bottomleft{
+    width: 101px;
+    margin-top: 14px;
+    margin-left: 43px;
+    color: red;
+}
+p{
+    margin-top: 0px;
+}
+.bottomp{
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+span{
+    color: white;
+}
+.bottom{
+    width: 644px;
+    margin-top: 15px;
+    margin-left: 0px;
+    display: inline-block;
+    vertical-align: top;
+}
+.blue, .pink, .yellow, .green{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    vertical-align: top;
+    border: 1px solid #000;
+    margin-bottom: 3px;
+    text-align: center;
+    font-family: arial;
+}
+.white{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 3px;
+    padding-right: 2px;
+    text-align: center;
+    color: red;
+    font-family: arial;
+    font-size: 12px;
+}
+.blue{
+    background-color: #6a9dfc;   
+}
+.pink{
+    background-color: #fb9b9a;
+}
+.yellow{
+    background-color: #fdca2e;
+}
+.green{
+    background-color: #2dc831;
+}
